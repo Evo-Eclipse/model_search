@@ -316,3 +316,4 @@ Change 2 in branch1
 Change 3 in branch1
 New commit 1 in branch1
 New commit 2 in branch1
+New commit 3 in branch1
